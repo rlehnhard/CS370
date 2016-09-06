@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "RecipeIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "WHO_IS"
+      },
+      {
+        "name" : "Bloop",
+        "type": "BIG_BOOK"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    { 
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

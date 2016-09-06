@@ -1,0 +1,29 @@
+RecipeIntent who is {Bloop}
+RecipeIntent who the hell is {Bloop}
+RecipeIntent who the hell's {Bloop}
+RecipeIntent who's {Bloop}
+
+RecipeIntent what is {Bloop}
+RecipeIntent what's {Bloop}
+RecipeIntent what the hell is {Bloop}
+
+RecipeIntent can you tell me {Bloop}
+RecipeIntent can you tell me who {Bloop} is
+RecipeIntent can you tell me what {Bloop} is
+RecipeIntent can you please tell me {Bloop}
+RecipeIntent can you please tell me who {Bloop} is
+RecipeIntent can you please tell me what {Bloop} is
+RecipeIntent tell me {Bloop}
+RecipeIntent tell me who {Bloop} is
+RecipeIntent tell me what {Bloop} is
+RecipeIntent please tell me {Bloop}
+RecipeIntent please tell me who {Bloop} is
+RecipeIntent please tell me what {Bloop} is
+RecipeIntent can I get {Bloop}
+RecipeIntent can I please get {Bloop}
+
+RecipeIntent hey {Bloop}
+RecipeIntent hey what's {Bloop}
+RecipeIntent hey what is {Bloop}
+RecipeIntent hey who's {Bloop}
+RecipeIntent hey who is {Bloop}

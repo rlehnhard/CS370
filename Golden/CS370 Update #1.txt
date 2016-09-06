@@ -1,0 +1,8 @@
+September 30th
+2 weeks away
+What's progress: Have a skill created that you can interact with, get it deployed to the cloud.
+Hello World type skill, nothing big.
+
+github.com/jneong
+
+C:\Program Files\Java\jre1.8.0_101

@@ -1,0 +1,176 @@
+Custom Slot Types:
+
+Type: BIG_BOOK
+Enter Values:
+george's phone number
+george ledin's phone number
+professor george ledin's phone number
+professor ledin's phone number
+george's number
+george ledin's number
+professor george ledin's number
+professor ledin's number
+george's office phone number
+george ledin's office phone number
+professor george ledin's office phone number
+professor ledin's office phone number
+tia's phone number
+tia watts's phone number
+professor tia watts's phone number
+professor watts's phone number
+dr. tia watts's phone number
+dr. tia's phone number
+dr. watts's phone number
+tia's number
+tia watts's number
+professor tia watts's number
+professor watts's number
+dr. tia watts's number
+dr. tia's number
+dr. watts's number
+tia's office phone number
+tia watts's office phone number
+professor tia watts's office phone number
+professor watts's office phone number
+dr. tia watts's office phone number
+dr. tia's office phone number
+dr. watts's office phone number
+ali's phone number
+ali kooshesh's phone number
+professor ali kooshesh's phone number
+professor kooshesh's phone number
+dr. ali kooshesh's phone number
+dr. ali's phone number
+dr. kooshesh's phone number
+ali's number
+ali kooshesh's number
+professor ali kooshesh's number
+professor kooshesh's number
+dr. ali kooshesh's number
+dr. ali's number
+dr. kooshesh's number
+ali's office phone number
+ali kooshesh's office phone number
+professor ali kooshesh's office phone number
+professor kooshesh's office phone number
+dr. ali kooshesh's office phone number
+dr. ali's phone office phone number
+dr. kooshesh's office phone number
+mike's phone number
+mike lyle's phone number
+professor mike lyle's phone number
+professor lyle's phone number
+mike's number
+mike lyle's number
+professor mike lyle's number
+professor lyle's number
+mike's office phone number
+mike lyle's office phone number
+professor mike lyle's office phone number
+professor lyle's office phone number
+glenn's phone number
+glenn carter's phone number
+professor glenn carter's phone number
+professor carter's phone number
+glenn's number
+glenn carter's number
+professor glenn carter's number
+professor carter's number
+glenn's office phone number
+glenn carter's office phone number
+professor glenn carter's office phone number
+professor carter's office phone number
+
+Type: EMAILS
+Enter Values:
+george's email address
+george ledin's email address
+professor george ledin's email address
+professor ledin's email address
+george's email
+george ledin's email
+professor george ledin's email
+professor ledin's email
+tia's email address
+tia watts's email address
+professor tia watts's email address
+professor watts's email address
+dr. tia watts's email address
+dr. tia's email address
+dr. watts's email address
+tia's email
+tia watts's email
+professor tia watts's email
+professor watts's email
+dr. tia watts's email
+dr. tia's email
+dr. watts's email
+mike's email address
+mike lyle's email address
+professor mike lyle's email address
+professor lyle's email address
+mike's email
+mike lyle's email
+professor mike lyle's email
+professor lyle's email
+ali's email address
+ali kooshesh's email address
+professor ali kooshesh's email address
+professor ali's email address
+dr. ali kooshesh's email address
+dr. ali's email address
+dr. kooshesh's email address
+mr. kooshesh's email address
+mr. ali kooshesh's email address
+ali's email
+ali kooshesh's email
+professor ali kooshesh's email
+professor ali's email
+dr. ali kooshesh's email
+dr. ali's email
+dr. kooshesh's email
+mr. kooshesh's email
+mr. ali kooshesh's email
+glenn's email address
+glenn carter's email address
+professor glenn carter's email address
+professor carter's email address
+glenn's email
+glenn carter's email
+professor glenn carter's email
+professor carter's email
+
+Type: WHO_IS
+Enter Values:
+george
+george ledin
+professor george ledin
+professor ledin
+mr. ledin
+mr. george ledin
+tia
+tia watts
+professor tia watts
+professor watts
+dr. tia watts
+dr. tia
+dr. watts
+mike
+mike lyle
+professor mike lyle
+professor lyle
+ali
+ali kooshesh
+professor ali kooshesh
+professor ali
+dr. ali kooshesh
+dr. ali
+dr. kooshesh
+mr. kooshesh
+mr. ali kooshesh
+glenn
+glenn carter
+professor glenn carter
+professor carter
+mr. carter
+mr. glenn carter
